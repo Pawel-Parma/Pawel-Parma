@@ -1,11 +1,6 @@
 # Hello, I'm Pawel-Parma 👋
 ### Trying new fields and languages to find what I like the most.
 
-## 🔧 Most Used Technologies & Tools:
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-
 ## 📈 My GitHub Stats:
 
 <a href="https://github.com/Pawel-Parma">
