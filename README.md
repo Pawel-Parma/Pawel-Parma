@@ -1,4 +1,4 @@
-# Hello, I'm Pawel-Parma 👋
+# Hello, I'm Paweł Parma 👋
 ### Trying new fields and languages to find what I like the most.
 
 ## 📈 My GitHub Stats:
