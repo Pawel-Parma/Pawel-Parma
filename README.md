@@ -1,7 +1,7 @@
-# Hello, I'm Paweł Parma 👋
+# Hello, I'm Paweł Parma
 ### Trying new fields and languages to find what I like the most.
 
-## 📈 My GitHub Stats:
+## My GitHub Stats:
 
 <a href="https://github.com/Pawel-Parma">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pawel-Parma&hide_rank=false&hide_title=true&show_icons=true&theme=transparent&hide_border=true&border_radius=10" alt="Pawel's GitHub Stats">
